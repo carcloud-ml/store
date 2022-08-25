@@ -38,7 +38,7 @@ export default defineConfig({
   metas: [
     {
       name: 'apple-mobile-web-app-title',
-      content: 'WidgetStore',
+      content: 'CarCloud Scriptablejs Store',
     },
     {
       name: 'apple-mobile-web-app-capable',
@@ -61,7 +61,7 @@ export default defineConfig({
     },
   ],
   dva: {},
-  title: 'WidgetStore',
+  title: 'CarCloud Scriptablejs Store',
   publicPath: productPath,
   extraPostCSSPlugins: [
     //https://www.npmjs.com/package/postcss-plugin-px2rem
